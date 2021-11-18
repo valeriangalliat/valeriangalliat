@@ -8,3 +8,6 @@ img/youtube.png:
 
 img/instagram.png:
 	curl 'https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png' | convert - -resize 16x $@
+
+img/ko-fi.png:
+	curl 'https://ko-fi.com/favicon.png' | convert - -resize 16x $@
