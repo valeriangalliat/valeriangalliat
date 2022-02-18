@@ -13,7 +13,7 @@ Here's a highlight of the projects I work on:
 
 * [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) – Header anchors for markdown-it.
 * [markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) – Preset to use highlight.js with markdown-it.
-* [fetch-cookie](https://github.com/valeriangalliat/fetch-cookie) – Decorator for a `fetch` function to support automatic cookies.
+* [fetch-cookie](https://github.com/valeriangalliat/fetch-cookie) – Decorator for a `fetch` function to support automatic cookie storage and population. 🍪
 * [spotify-buddylist](https://github.com/valeriangalliat/spotify-buddylist) – Fetch the friend activity Spotify feed.
 
 ## 🔨 Libraries
