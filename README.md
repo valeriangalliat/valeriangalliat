@@ -42,7 +42,7 @@ Here's a highlight of the projects I work on:
 
 ## 🏓 Personal
 
-* [Dotfiles](https://github.com/valeriangalliat/blog) – My home directory skeleton with main configuration files. 💡
+* [Dotfiles](https://github.com/valeriangalliat/dotfiles) – My home directory skeleton with main configuration files. 💡
 * [Blog](https://github.com/valeriangalliat/blog) – My personal blog. ✍
 * [Photography](https://github.com/valeriangalliat/photography) – Photography portfolio. 📸
 * [Sans Pression Nanobrewery](https://github.com/valeriangalliat/sans-pression) – Open-source nanobrewery. 🍻
