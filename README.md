@@ -34,11 +34,15 @@ Here's a highlight of the projects I work on:
 * [Firefox Sync CLI](https://github.com/valeriangalliat/firefox-sync-cli) – Manage Firefox Sync from the CLI! ✨
 * [pretty-package-json](https://github.com/valeriangalliat/pretty-package-json) – Prettier for `package.json`.
 * [changelogfmt](https://github.com/valeriangalliat/changelogfmt) – Formats the reference links of Keep a Changelog style files.
+* [sshd-on-the-go](https://github.com/valeriangalliat/sshd-on-the-go) – Portable userland SSH server configuration. 🧳
+* [force-color-emoji](https://github.com/valeriangalliat/force-color-emoji) – Add the color variation selector to emoji that need it! 🏳️‍🌈
+* [gocryptfs-rsync](https://github.com/valeriangalliat/gocryptfs-rsync) – Helper to rsync over gocryptfs (encrypted rsync). 🪐
 
 ## 🚀 Services
 
 * [TOTP](https://github.com/valeriangalliat/totp) – TOTP with a password manager that doesn't support TOTP. 😅
 * [Shakti Radio](https://github.com/valeriangalliat/shakti-radio) – Live music from Shakti Rock Gym! 🧗‍♂️🎶💛
+* [Vercel Custom Log Drain](https://github.com/valeriangalliat/vercel-custom-log-drain) – Configure a custom log drain on a Vercel app.
 
 ## 🏓 Personal
 
