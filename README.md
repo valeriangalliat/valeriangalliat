@@ -37,6 +37,7 @@ Here's a highlight of the projects I work on:
 * [sshd-on-the-go](https://github.com/valeriangalliat/sshd-on-the-go) – Portable userland SSH server configuration. 🧳
 * [force-color-emoji](https://github.com/valeriangalliat/force-color-emoji) – Add the color variation selector to emoji that need it! 🏳️‍🌈
 * [gocryptfs-rsync](https://github.com/valeriangalliat/gocryptfs-rsync) – Helper to rsync over gocryptfs (encrypted rsync). 🪐
+* [Kobo Highlights to Calibre](https://github.com/valeriangalliat/kobo-highlights-to-calibre) – Import Kobo highlights to Calibre. 📚
 
 ## 🚀 Services
 
