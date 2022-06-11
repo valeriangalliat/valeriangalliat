@@ -39,6 +39,7 @@ Here's a highlight of the projects I work on:
 * [gocryptfs-rsync](https://github.com/valeriangalliat/gocryptfs-rsync) – Helper to rsync over gocryptfs (encrypted rsync). 🪐
 * [Kobo Highlights to Calibre](https://github.com/valeriangalliat/kobo-highlights-to-calibre) – Import Kobo highlights to Calibre. 📚
 * [action-sshd-cloudflared](https://github.com/valeriangalliat/action-sshd-cloudflared) – GitHub Action to debug via SSH over a Cloudflare Tunnel. 👩‍💻
+* [asdf-partial](https://github.com/valeriangalliat/asdf-partial) –  asdf wrapper to handle partial (fuzzy, best-matching) version strings. 🦩
 
 ## 🚀 Services
 
