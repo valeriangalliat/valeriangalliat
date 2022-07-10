@@ -1,6 +1,6 @@
 # Hey there, I'm **Val**! 👋
 
-![Me working from a pool](https://www.codejam.info/img/freelance.jpg)
+![Val on top of a mountain](https://www.codejam.info/img/val-winter.jpg)
 
 I wear many hats, and one of them is to be a **backend developer**.
 
