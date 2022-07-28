@@ -11,14 +11,14 @@ Here's a highlight of the projects I work on:
 
 ## 🥇 Most popular
 
-* [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) – Header anchors for markdown-it.
+* [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) – A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
 * [markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) – Preset to use highlight.js with markdown-it.
 * [fetch-cookie](https://github.com/valeriangalliat/fetch-cookie) – Decorator for a `fetch` function to support automatic cookie storage and population. 🍪
 * [spotify-buddylist](https://github.com/valeriangalliat/spotify-buddylist) – Fetch the friend activity Spotify feed.
 
 ## 🔨 Libraries
 
-* [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) – Header anchors for markdown-it.
+* [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) – A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
 * [markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) – Preset to use highlight.js with markdown-it.
 * [markdown-it-title](https://github.com/valeriangalliat/markdown-it-title) –  Extract title during markdown-it parsing.
 * [markdown-it-attr-typographer](https://github.com/valeriangalliat/markdown-it-attr-typographer) –  Enable markdown-it typographer mode on text attributes.
