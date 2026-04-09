@@ -18,7 +18,7 @@ Here's a highlight of the projects I work on:
 
 ## 🖥️ Apps
 
-- [Flame](https://flame.evetools.app/) – A better UI for the Firebase emulator. 💅
+- [Flame](https://flame.evetools.app/) – A better UI for the Firebase emulator. 🔥
 
 ## 🔨 Libraries
 
