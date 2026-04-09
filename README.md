@@ -16,6 +16,10 @@ Here's a highlight of the projects I work on:
 * [fetch-cookie](https://github.com/valeriangalliat/fetch-cookie) – Decorator for a `fetch` function to support automatic cookie storage and population. 🍪
 * [spotify-buddylist](https://github.com/valeriangalliat/spotify-buddylist) – Fetch the friend activity Spotify feed.
 
+## 🖥️ Apps
+
+* [Flame](https://flame.evetools.app/) – A better UI for the Firebase emulator. 💅
+
 ## 🔨 Libraries
 
 * [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) – A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
