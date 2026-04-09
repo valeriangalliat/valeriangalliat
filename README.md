@@ -4,7 +4,7 @@
 
 I wear many hats, and one of them is to be a **backend developer**.
 
-| [✍️ Blog](https://www.codejam.info/) | [<sub><img src="img/twitter.png"></sub> Twitter](https://twitter.com/valeriangalliat) | [<sub><img src="img/youtube.png" width="16"></sub> YouTube](https://www.youtube.com/FunkyVal) | [<sub><img src="img/instagram.png" width="16"></sub> Instagram](https://www.instagram.com/funkyval_/) | [<sub><img src="img/ko-fi.png"></sub> Buy me a coffee!](https://ko-fi.com/funkyval) |
+| [✍️ Blog](https://www.codejam.info/) | [<sub><img src="img/x.png" width="16"></sub> X](https://x.com/valeriangalliat) | [<sub><img src="img/youtube.png" width="16"></sub> YouTube](https://www.youtube.com/FunkyVal) | [<sub><img src="img/instagram.png" width="16"></sub> Instagram](https://www.instagram.com/funkyval_/) | [<sub><img src="img/ko-fi.png" width="16"></sub> Buy me a coffee!](https://ko-fi.com/funkyval) |
 |--------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 
 Here's a highlight of the projects I work on:
