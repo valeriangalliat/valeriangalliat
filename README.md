@@ -4,8 +4,8 @@
 
 Just another builder. 🙃
 
-| [✍️ Blog](https://www.codejam.info/) | [<sub><img src="img/x.png" width="16"></sub> X](https://x.com/valeriangalliat) | [<sub><img src="img/youtube.png" width="16"></sub> YouTube](https://www.youtube.com/FunkyVal) | [<sub><img src="img/instagram.png" width="16"></sub> Instagram](https://www.instagram.com/funkyval_/) | [<sub><img src="img/ko-fi.png" width="16"></sub> Buy me a coffee!](https://ko-fi.com/funkyval) |
-| ------------------------------------ | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [✍️ Blog](https://www.codejam.info/) | [<sub><img src="img/x.png" width="16"></sub> X](https://x.com/valeriangalliat) | [<sub><img src="img/ko-fi.png" width="16"></sub> Buy me a coffee!](https://ko-fi.com/funkyval) |
+|--------------------------------------|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 Here's a highlight of the projects I work on:
 
@@ -18,10 +18,14 @@ Here's a highlight of the projects I work on:
 
 ## 🖥️ Apps
 
-- [Flame](https://flame.evetools.app/) – A better UI for the Firebase emulator. 🔥
+- [Flame](https://useflame.app/) – A better UI for the Firebase emulator. 🔥
+- [Cloudmotion](https://cloudmotion.dev/) – Managed Remotion Lambda rendering. ▶️
+- [TZBar](https://evetools.app/en/tzbar) – World clocks in your macOS menu bar. ⏰
 
 ## 🔨 Libraries
 
+- [posthog-zero](https://github.com/EveToolsHQ/posthog-zero) – Minimal PostHog event capture for Cloudflare Workers, edge and browser/Tauri.
+- [vite-plugin-conditional-imports](https://github.com/EveToolsHQ/vite-plugin-conditional-imports) – Strip imports conditionally.
 - [markdown-it-anchor](https://github.com/valeriangalliat/markdown-it-anchor) – A markdown-it plugin that adds an `id` attribute to headings and optionally permalinks.
 - [markdown-it-highlightjs](https://github.com/valeriangalliat/markdown-it-highlightjs) – Preset to use highlight.js with markdown-it.
 - [markdown-it-title](https://github.com/valeriangalliat/markdown-it-title) – Extract title during markdown-it parsing.
